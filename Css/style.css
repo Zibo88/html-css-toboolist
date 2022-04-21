@@ -11,13 +11,12 @@ body {
 
 /* header */
 .header-container {
-    width: 90%;
-    margin: auto;
     background-color: white;
     
 }
 
 .logo {
+    margin-left: 20px;
     vertical-align: middle;
     padding: 10px;
 }
@@ -34,7 +33,7 @@ main {
 }
 
 .main-container {
-    width: 60%;
+    width: 70%;
     background-color: white;
     margin: auto;
 }
@@ -70,9 +69,15 @@ ul {
     padding-left: 33px;
     list-style-type: none;
 }
+/* sub-list 1 */
+li{
+    margin:10px 0;
+}
 
 .list-title {
     font-weight: 800;
+    margin-top: 15px;
+    margin-bottom: 15px;
 
 }
 
@@ -103,7 +108,38 @@ ul {
     border-radius: 3px;
     font-size: 8px;
 }
-
+/* sub-list 2 */
 .editorial {
     background-color: #45abe9;
+}
+
+.goals {
+    background-color: #9c72e4;
+}
+
+.cross {
+    color: #eb5953;
+    border: 1px solid #eb5953;
+    border-radius: 50%;
+    background-color: white;
+    font-size: 10px;
+    vertical-align: middle;
+}
+
+.recruting {
+    background-color: #63c0a9;
+}
+
+.mobile {
+    background-color: #f29e33;
+}
+
+
+/* sub-list 3 */
+.website {
+    background-color: #d763a1;
+}
+
+.sales {
+    background-color: #b0c925;
 }
