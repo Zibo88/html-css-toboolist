@@ -29,13 +29,15 @@ h1 {
 /* main */
 
 main {
-    margin-top: 60px;
+    margin-top: 40px;
+    
 }
 
 .main-container {
     width: 70%;
     background-color: white;
     margin: auto;
+    padding-bottom: 40px;
 }
 /* main-top */
 .btn {
@@ -72,7 +74,7 @@ ul {
 }
 /* sub-list 1 */
 li{
-    margin:10px 0;
+    margin: 10px 0;
 }
 
 .list-title {
@@ -144,3 +146,4 @@ li{
 .sales {
     background-color: #b0c925;
 }
+
