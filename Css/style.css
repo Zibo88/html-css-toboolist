@@ -5,3 +5,60 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #f5f8f9;
+}
+
+/* header */
+.header-container {
+    width: 90%;
+    margin: auto;
+    background-color: white;
+    
+}
+
+.logo {
+    vertical-align: middle;
+    padding: 10px;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* main */
+
+main {
+    margin-top: 60px;
+}
+
+.main-container {
+    width: 60%;
+    background-color: white;
+    margin: auto;
+}
+/* main-top */
+.btn {
+    padding: 2px 5px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+}
+
+.btn1 {
+    background-color: #46adf1;
+    color: white;    
+}
+
+.btn2 {
+    background-color: white;
+    color: lightgray;
+    margin-left: 3px;
+}
+
+hr {
+    border: 1px solid #f5f8f9;
+}
