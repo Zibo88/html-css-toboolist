@@ -62,3 +62,48 @@ main {
 hr {
     border: 1px solid #f5f8f9;
 }
+
+/* main-bottom */
+
+ul {
+    padding-top: 20px;
+    padding-left: 33px;
+    list-style-type: none;
+}
+
+.list-title {
+    font-weight: 800;
+
+}
+
+.sub-list {
+    line-height: 10px;
+    padding-left: 0px;
+}
+
+.check{
+    color: #82cdbb;
+    border: 1px solid #82cdbb;
+    border-radius: 50%;
+    background-color: white;
+    font-size: 10px;
+    vertical-align: middle;
+}
+
+.to-do{
+    font-size: 15px;
+    font-weight: 200;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.tag{
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-size: 8px;
+}
+
+.editorial {
+    background-color: #45abe9;
+}
